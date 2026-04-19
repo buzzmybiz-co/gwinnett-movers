@@ -246,7 +246,7 @@ img { max-width: 100%; display: block; border-radius: var(--radius-md); }
 }
 
 .hero-content {
-    max-width: 800px;
+    max-width: 100%;
     color: #fff;
 }
 
